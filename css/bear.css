@@ -8,7 +8,7 @@ html {
   right: 0;
 }
 
-@media only screens (max-width: 1196px) {
+@media only screen and (max-width: 1196px) {
   
 }
 
