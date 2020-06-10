@@ -19,6 +19,8 @@ html {
 }
 
 @media only screen and (max-width: 1196px) {
-  #dolphin {transform: rotate(45);}
+  #dolphin {transform: rotate(45);
+    right: 250px;
+  }
 }
 
